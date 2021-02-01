@@ -6,12 +6,12 @@
 #### (1) 파생변수 생성
 
 
-카테고리 | 변수 종류 | 내용 
----- | ---- | ---- | ----
-store 기본 정보 | n_card, count, total_amount, amount_q25, ... |  
-시간대별 | t01_05,	t06_10,	t11_14,	t15_17,	t18_20,	t21_24, ...	 |
-요일, 공휴일별 | weekend_count, total_amount/n_days, holiday_amount/n_holiday, ... |
-고객별 | regular_percent | 일주일에 두번 이상 방문 고객 비중
+|카테고리 | 변수 종류 | 내용 |
+|:---:|:----:|:----|
+|store 기본 정보 | n_card, count, total_amount, amount_q25, ... |  |
+|시간대별 | t01_05,	t06_10,	t11_14,	t15_17,	t18_20,	t21_24, ...	 |  }
+|요일, 공휴일별 | weekend_count, total_amount/n_days, holiday_amount/n_holiday, ... |  |
+|고객별 | regular_percent | 일주일에 두번 이상 방문 고객 비중|
 
 
 
