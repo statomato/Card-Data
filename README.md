@@ -27,7 +27,8 @@
 
 #### (3) 시각화
 - 레이더 그래프1 : 시간대별
-![raderchart1](https://user-images.githubusercontent.com/44764167/107056793-107b0900-6816-11eb-8918-af96fb337c31.png)
+![raderchart1](https://user-images.githubusercontent.com/44764167/107059750-8634a400-6819-11eb-9701-c336358e116f.png)
+
 
 - 레이더 그래프2 : amount, card 고객 수 관련 변수(Min-Max Scale)
-![raderchart2](https://user-images.githubusercontent.com/44764167/107056800-11ac3600-6816-11eb-9d3d-d993ce4f6175.png)
+![raderchart2](https://user-images.githubusercontent.com/44764167/107059754-86cd3a80-6819-11eb-87ac-a2710331abee.png)
