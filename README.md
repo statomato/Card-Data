@@ -16,7 +16,7 @@
 
 
 ##### (2) clustering
-![dendrogram]{: width="300" height="300"){: .center}(https://user-images.githubusercontent.com/44764167/107056802-11ac3600-6816-11eb-9a73-7d4d7daeb0ea.png)
+![dendrogram](https://user-images.githubusercontent.com/44764167/107056802-11ac3600-6816-11eb-9a73-7d4d7daeb0ea.png)
 
 - Wald Clustering
 - 군집 8개로 결정
@@ -26,6 +26,8 @@
 
 
 #### (3) 시각화
-- 레이더 그래프
+- 레이더 그래프1 : 시간대별
 ![raderchart1](https://user-images.githubusercontent.com/44764167/107056793-107b0900-6816-11eb-8918-af96fb337c31.png)
+
+- 레이더 그래프2 : amount, card 고객 수 관련 변수(Min-Max Scale)
 ![raderchart2](https://user-images.githubusercontent.com/44764167/107056800-11ac3600-6816-11eb-9d3d-d993ce4f6175.png)
