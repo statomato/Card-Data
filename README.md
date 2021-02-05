@@ -19,10 +19,10 @@
 ![dendrogram](https://user-images.githubusercontent.com/44764167/107056802-11ac3600-6816-11eb-9a73-7d4d7daeb0ea.png)
 
 - Wald Clustering
-- 군집 8개로 결정
+- 군집 9개로 결정
 
 - 군집별 store 개수
-![image](https://user-images.githubusercontent.com/44764167/107057286-a151e480-6816-11eb-9805-9744b8ad1733.png)
+![image](https://user-images.githubusercontent.com/44764167/107059436-21794980-6819-11eb-9943-9aa500022412.png)
 
 
 #### (3) 시각화
