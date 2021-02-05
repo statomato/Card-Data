@@ -21,7 +21,8 @@
 - Wald Clustering
 - 군집 8개로 결정
 
-
+- 군집별 store 개수
+![image](https://user-images.githubusercontent.com/44764167/107057286-a151e480-6816-11eb-9805-9744b8ad1733.png)
 
 
 #### (3) 시각화
