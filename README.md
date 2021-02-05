@@ -15,10 +15,14 @@
 
 
 
-##### 시각화 전에 clustering이나 차원축소하기
-#### (2) 시각화
-- 레이더 그래프
+##### (2) clustering
 ![dendrogram](https://user-images.githubusercontent.com/44764167/107056802-11ac3600-6816-11eb-9a73-7d4d7daeb0ea.png)
-## 3. 모델링
-## 4. 모델 평가
-## 5. 인사이트 도출
+
+- Wald Clustering
+- 군집 8개로 결정
+
+
+
+
+#### (3) 시각화
+- 레이더 그래프
