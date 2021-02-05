@@ -16,7 +16,7 @@
 
 
 ##### (2) clustering
-![dendrogram](https://user-images.githubusercontent.com/44764167/107056802-11ac3600-6816-11eb-9a73-7d4d7daeb0ea.png){: width="300" height="300"){: .center}
+![dendrogram]{: width="300" height="300"){: .center}(https://user-images.githubusercontent.com/44764167/107056802-11ac3600-6816-11eb-9a73-7d4d7daeb0ea.png)
 
 - Wald Clustering
 - 군집 8개로 결정
