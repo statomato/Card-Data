@@ -37,4 +37,3 @@
 - 레이더 그래프2 : amount, card 고객 수 관련 변수(Min-Max Scale)
 ![raderchart2](https://user-images.githubusercontent.com/44764167/107102518-08df5280-685e-11eb-9473-f127a96049c1.png)
 
-- Biplots
