@@ -15,20 +15,24 @@
 
 
 
+
+
+
+
 ##### (2) clustering
-![dendrogram](https://user-images.githubusercontent.com/44764167/107059873-a82e2680-6819-11eb-9077-4245cd0fbd36.png)
+![dendrogram](https://user-images.githubusercontent.com/44764167/107102525-0b41ac80-685e-11eb-9836-209185fd105b.png)
 
 - Wald Clustering
 - 군집 9개로 결정
 
 - 군집별 store 개수
-![image](https://user-images.githubusercontent.com/44764167/107059436-21794980-6819-11eb-9943-9aa500022412.png)
+![dataframe](https://user-images.githubusercontent.com/44764167/107102524-0b41ac80-685e-11eb-9a54-5edbddb77337.JPG)
 
 
 #### (3) 시각화
 - 레이더 그래프1 : 시간대별
-![raderchart1](https://user-images.githubusercontent.com/44764167/107059750-8634a400-6819-11eb-9701-c336358e116f.png)
+![raderchart1](https://user-images.githubusercontent.com/44764167/107102516-067cf880-685e-11eb-957e-7e2b15064758.png)
 
 
 - 레이더 그래프2 : amount, card 고객 수 관련 변수(Min-Max Scale)
-![raderchart2](https://user-images.githubusercontent.com/44764167/107059754-86cd3a80-6819-11eb-87ac-a2710331abee.png)
+![raderchart2](https://user-images.githubusercontent.com/44764167/107102518-08df5280-685e-11eb-9473-f127a96049c1.png)
