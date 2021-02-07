@@ -40,3 +40,8 @@
 - 레이더 그래프2 : amount, card 고객 수 관련 변수(Min-Max Scale)
 ![raderchart2](https://user-images.githubusercontent.com/44764167/107139645-3f04fb00-6960-11eb-9342-6dd9be6e4f1e.png)
 
+
+
+#### (4) 군집 이름 결정
+<img width="647" alt="cluster_표2" src="https://user-images.githubusercontent.com/44764167/107140548-17189600-6966-11eb-9444-f94ac8db0778.png">
+<img width="927" alt="cluster_표1" src="https://user-images.githubusercontent.com/44764167/107140549-17b12c80-6966-11eb-92bb-730456b9ead9.png">
