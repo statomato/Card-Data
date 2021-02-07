@@ -40,6 +40,8 @@
 - 레이더 그래프2 : amount, card 고객 수 관련 변수(Min-Max Scale)
 ![raderchart2](https://user-images.githubusercontent.com/44764167/107139645-3f04fb00-6960-11eb-9342-6dd9be6e4f1e.png)
 
+- 군집별 시간대 빈도 그래프
+![cluster_hour](https://user-images.githubusercontent.com/44764167/107148844-c9695100-6998-11eb-80d0-8017989d6be8.png)
 
 
 #### (4) 군집 이름 결정
