@@ -43,6 +43,9 @@
 - 군집별 시간대 빈도 그래프
 ![cluster_hour](https://user-images.githubusercontent.com/44764167/107148844-c9695100-6998-11eb-80d0-8017989d6be8.png)
 
+- 군집별 시간대 빈도 퍼센트 그래프
+![cluster_hour_percent](https://user-images.githubusercontent.com/44764167/107378886-c359a880-6b2f-11eb-9a16-52324fdd1334.png)
+
 
 #### (4) 군집 이름 결정
 <img width="647" alt="cluster_표2" src="https://user-images.githubusercontent.com/44764167/107140548-17189600-6966-11eb-9444-f94ac8db0778.png">
